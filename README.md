@@ -1,0 +1,2 @@
+# loanApproval
+Loan Approval prediction using machine learning
